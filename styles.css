@@ -1,0 +1,15 @@
+p {
+    margin: 10px 50px;
+    padding: 20px 40px;
+    background-color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+.page-description {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
